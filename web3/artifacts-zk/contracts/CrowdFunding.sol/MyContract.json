@@ -1,0 +1,16 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "MyContract",
+  "sourceName": "contracts/CrowdFunding.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    }
+  ],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220d444bc8aafa3edab0cd61424c25f92daa326c884b71b53178cce95d9ac8b54ff64736f6c63430008110033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220d444bc8aafa3edab0cd61424c25f92daa326c884b71b53178cce95d9ac8b54ff64736f6c63430008110033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
